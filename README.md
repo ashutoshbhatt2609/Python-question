@@ -1,2 +1,2 @@
 # Python-question
-Some question of basic python along with the solution
+Some question of basic python along with the solution.
