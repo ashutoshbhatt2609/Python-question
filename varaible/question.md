@@ -10,4 +10,5 @@
    record-one
    record^one
    continue
-   [solution](Python-question\varaible\solution.ipynb)
+
+   [solution](https://github.com/ashutoshbhatt2609/Python-question/blob/main/varaible/solution.ipynb)
