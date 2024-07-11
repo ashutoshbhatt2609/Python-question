@@ -6,4 +6,4 @@
 3. Create two variables to store how many fruits and vegetables you eat in a day. Now Print "I eat x veggies and y fruits daily" where x and y presents vegetables and fruits that you eat everyday. Use a python f string for this.
 4. I have a string variabe called s='maina 2 banana khaye'. This offcousrse is a wrong statement, the correct statement is 'maina 2 samosa khaye'. Replace incorrect words in original string with new ones and print the new string. Also try to do this in one line.
 
-[Solution]()
+[Solution](https://github.com/ashutoshbhatt2609/Python-question/blob/main/strings/solution.ipynb)
