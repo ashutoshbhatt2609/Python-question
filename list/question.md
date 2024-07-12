@@ -34,4 +34,4 @@ Using this find out,
 
 
 
-[Solution]
+[Solution](https://github.com/ashutoshbhatt2609/Python-question/blob/main/list/solution.py)
