@@ -30,4 +30,4 @@ found then it should print that as well.
 ```
 
 
-[Solution]
+[Solution](https://github.com/ashutoshbhatt2609/Python-question/blob/main/for/solution.ipynb)
