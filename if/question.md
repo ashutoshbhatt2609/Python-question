@@ -12,8 +12,8 @@
     2. If it is below 80 to 100 range then print that sugar is low
     3. If it is above 100 then print that it is high otherwise print that it is normal
 
-[Solution - Exercise 1.i](https://github.com/ashutoshbhatt2609/Python-question/blob/main/if/solution1(i).py)
+[Solution - Exercise 1.(i)](https://github.com/ashutoshbhatt2609/Python-question/blob/main/if/solution1(i).py)
 
-[Solution - Exercise 1.ii](https://github.com/ashutoshbhatt2609/Python-question/blob/main/if/solution1(ii).py)
+[Solution - Exercise 1.(ii)](https://github.com/ashutoshbhatt2609/Python-question/blob/main/if/solution1(ii).py)
 
 [Solution - Exercise 2](https://github.com/ashutoshbhatt2609/Python-question/blob/main/if/solution2.py)
